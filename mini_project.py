@@ -1,5 +1,3 @@
-
-
 date1=input("Enter date1 in format of dd/mm/year: ")# entering first date
 x=date1[0]+date1[1] #picking date from input
 y=int(x) #converting string of date(x) into int
